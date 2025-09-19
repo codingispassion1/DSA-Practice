@@ -2,6 +2,7 @@
 # 📘 DSA practice Playlist
 
 This repository contains my practice solutions for Data Structures and Algorithms in C++.
+Focus on quality, not quantity
 
 ## 🗂 Structure
 - Arrays
